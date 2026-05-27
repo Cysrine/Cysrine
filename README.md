@@ -16,8 +16,11 @@
   A cross-platform (Web, Android, iOS, Desktop) pixelated, infinite-downfall asteroid shooter built with Flutter and Dart. It features progressive difficulty, a health system, and dynamic scoring.
 
 ### 🌐 Full-Stack Personal Initiative
+* **[Voice controlled Task Manager](https://github.com/Cysrine/Voice-Task-Manager)**
+  A voice-controlled task management web app. Speak naturally to create, update, and delete tasks. The AI assistant understands your intent, manages your to-do list, and talks back.
 * **[Speech to Text Web Application](https://github.com/Cysrine/Speech-Text-Project)**
   A web-based Node.js application designed to ingest local audio files (.mp3, .wav, .m4a) and transcribe them into readable text utilizing the high-accuracy Speechmatics API. 
+
 
 ### 🚦 Mechatronics Lab 1
 * **[IoT Traffic Light Simulation](https://github.com/Cysrine/Traffic-Light)**
